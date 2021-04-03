@@ -1,0 +1,11 @@
+.hero-banner{
+    background-image: url('https://i.pinimg.com/originals/88/c2/18/88c218598eee307521381b3eb89d3979.jpg');
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 50px;
+}
